@@ -11,6 +11,7 @@ Further background on my [LinkedIn Profile](http://linkedin.com/in/chrisswan).
 #### My repos
 
 * [FaaSonK8s](https://github.com/cpswan/FaaSonK8s) - A list of Functions as a Service (FaaS) serverless platforms that run on Kubernetes.
+* [hyde-msp-example](https://github.com/cpswan/hyde-msp-example) - Example of multiple single pages on Hugo using the Hyde theme.
 * [dockerfiles](https://github.com/cpswan/dockerfiles) - Source for my [Docker Hub builds](https://hub.docker.com/u/cpswan). The only one that's really active these days is [Node-RED](https://hub.docker.com/r/cpswan/node-red), but you shouldn't use it as they long ago started publisheding their own [official Node-RED Docker image](https://hub.docker.com/r/nodered/node-red).
 * [RPi_sousvide](https://github.com/cpswan/RPi_sousvide) - is the code used for my [Raspberry Pi controlled sous vide water bath](http://blog.thestateofme.com/2013/03/31/raspberry-pi-sous-vide-water-bath/). I really need to find some time to update it to Python 3.
 
