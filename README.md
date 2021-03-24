@@ -2,7 +2,7 @@
 
 ### Work
 
-I'm CTO for Modern Apps and Cloud Native ([company bio](https://thrive.dxc.technology/experts/chris-swan/)) at [DXC Technology](https://www.dxc.technology/), the IT services company that came from the merger of CSC and HP Enterprise Services.
+I'm an Engineer at [The @ Company](https://atsign.com/), building the protocol and platform for post surveillance capitalism identity that puts people in control of their own data.
 
 Further background on my [LinkedIn Profile](http://linkedin.com/in/chrisswan).
 
