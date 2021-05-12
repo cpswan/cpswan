@@ -26,6 +26,14 @@ Sometimes I fork stuff just so that I have a point in time copy. Other times I f
 fixes when I've struggled through installing something. Most recently I forked all of
 [The @ Foundation](https://github.com/atsign-foundation) repos to add guidelines and templates (and to set up for future contributions).
 
+#### Open sourced work stuff
+
+* [labels](https://github.com/atsign-company/labels) is a repo to push a standard set of labels to the other repos we use so that we have consistent labeling.
+More on the [Managing GitHub Labels](https://blog.atsign.dev/managing-github-labels-cknkggyk600utcqs144h8apz9) post over at [blog.atsign.dev](https://blog.atsign.dev/)
+* [at_dockerfiles](https://github.com/atsign-company/at_dockerfiles) has examples and automation for multi architecture (x86_64, Arm, Arm64) images for Dart.
+* [DXC Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/) is 'a novel set of hands on learning modules which cover both cultural and
+technical aspects of DevOps'
+
 ### Writing
 
 I have a [blog](http://blog.thestateofme.com/) and also write about DevOps, Cloud and Security stuff at [InfoQ](https://www.infoq.com/profile/Chris-Swan/).
