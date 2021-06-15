@@ -28,6 +28,8 @@ fixes when I've struggled through installing something. Most recently I forked a
 
 #### Open sourced work stuff
 
+* [dump_cards](https://github.com/atsign-company/dump_cards) is a set of scripts for dumping GitHub projects to CSV files that can be imported to
+[PlanningPoker.com](https://planningpoker.com)
 * [labels](https://github.com/atsign-company/labels) is a repo to push a standard set of labels to the other repos we use so that we have consistent labeling.
 More on the [Managing GitHub Labels](https://blog.atsign.dev/managing-github-labels-cknkggyk600utcqs144h8apz9) post over at [blog.atsign.dev](https://blog.atsign.dev/).
 * [at_dockerfiles](https://github.com/atsign-company/at_dockerfiles) has examples and automation for multi architecture (x86_64, Arm, Arm64) images for Dart.
