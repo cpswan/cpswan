@@ -38,6 +38,9 @@ guidelines and templates (and to set up for future contributions).
 
 #### Open sourced work stuff
 
+* [certinfo-action](https://github.com/marketplace/actions/install-certinfo)
+a GitHub Action to install [@pete911](https://github.com/pete911)'s
+[certinfo](https://github.com/pete911/certinfo) into a workflow.
 * [dump_cards](https://github.com/atsign-company/dump_cards) is a set of
 scripts for dumping GitHub projects to CSV files that can be imported to
 [PlanningPoker.com](https://planningpoker.com). With the shift to Projects
