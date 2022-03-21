@@ -32,9 +32,11 @@ for my [Raspberry Pi controlled sous vide water bath](http://blog.thestateofme.c
 
 Sometimes I fork stuff just so that I have a point in time copy. Other times
 I fork stuff to contribute a change, typically docs fixes when I've struggled
-through installing something. Most recently I forked all of
+through installing something. I forked all of
 [The @ Foundation](https://github.com/atsign-foundation) repos to add
 guidelines and templates (and to set up for future contributions).
+Most recently I've been adding a few bits and pieces to
+[MAME](https://github.com/cpswan/mame).
 
 #### Open sourced work stuff
 
