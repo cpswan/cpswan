@@ -3,8 +3,10 @@
 ### Work
 
 I'm an Engineer at [The @ Company](https://atsign.com/), building the
-protocol and platform for post surveillance capitalism identity that puts
-people in control of their own data.
+platform where everybody (and everything) can put their data and
+control who has access to it.
+
+> Your thing, your data
 
 Further background on my [LinkedIn Profile](http://linkedin.com/in/chrisswan).
 
