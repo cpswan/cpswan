@@ -42,6 +42,10 @@ Most recently I've been adding a few bits and pieces to
 
 #### Open sourced work stuff
 
+* [at_swarm_load](https://github.com/atsign-company/at_swarm_load)
+Python script and Dockerfile to send load average and root volume
+disk utilisation into Google Cloud Platform (Stackdriver) custom
+metrics so that Flatcar Linux based hosts can be monitored.
 * [certinfo-action](https://github.com/marketplace/actions/install-certinfo)
 a GitHub Action to install [@pete911](https://github.com/pete911)'s
 [certinfo](https://github.com/pete911/certinfo) into a workflow.
