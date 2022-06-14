@@ -2,7 +2,7 @@
 
 ### Work
 
-I'm an Engineer at [The @ Company](https://atsign.com/), building the
+I'm an Engineer at [Atsign](https://atsign.com/), building the
 platform where everybody (and everything) can put their data and
 control who has access to it.
 
