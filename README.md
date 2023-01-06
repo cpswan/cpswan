@@ -76,4 +76,4 @@ Cloud and Security stuff at [InfoQ](https://www.infoq.com/profile/Chris-Swan/).
 I co-host the [Tech Debt Burndown Podcast](https://techdebtburndown.com/)
 with [Nick Selby](https://github.com/nselby).
 
-![Chris Swan GitHub Stats](https://github-readme-stats-gs92l2elb-cpswan.vercel.app/api?username=cpswan&count_private=true)
+![Chris Swan GitHub Stats](https://github-readme-stats-1xly-fkogw0a41-cpswan.vercel.app/api?username=cpswan&count_private=true)
