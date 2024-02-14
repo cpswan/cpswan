@@ -62,6 +62,7 @@ More on the [Managing GitHub Labels](https://blog.atsign.dev/managing-github-lab
 * [at_dockerfiles](https://github.com/atsign-company/at_dockerfiles) has
 examples and automation for multi architecture (x86_64, Arm, Arm64) images
 for Dart, which has now been incorporated into the Dart official image.
+Brought back from deprecation to add RISC-V images.
 * [DXC Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/)
 is 'a novel set of hands on learning modules which cover both cultural and
 technical aspects of DevOps'.
